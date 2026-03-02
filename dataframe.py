@@ -17,13 +17,7 @@ print(df.columns)
 
 print(df.dtypes)
 
-print(df.head(2))
 
-print(df.tail(2))
-
-print(df.size)
-
-print(df.shape)
 
 
 
